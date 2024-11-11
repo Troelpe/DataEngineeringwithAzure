@@ -1,0 +1,7 @@
+"Activity name,""Activity status"",""Error"",""Activity type"",""Run start"",""Duration"",""Integration runtime"",""User properties"",""Activity run ID"",""Log"""
+"dataflow_summary,""Succeeded"","""",""ExecuteDataFlow"",""11/11/2024, 5:38:13 PM"",""35s"",""AutoResolveIntegrationRuntime (Germany West Central)"",""{}"",""c147ca38-ba77-4e9d-85dd-7ea3de90cbbc"","""""
+"dataflow_payroll_2021,""Succeeded"","""",""ExecuteDataFlow"",""11/11/2024, 5:38:00 PM"",""8s"",""AutoResolveIntegrationRuntime (Germany West Central)"",""{}"",""9db03857-8e47-485c-a0f8-33c4c42953a4"","""""
+"dataflow_payroll_2020,""Succeeded"","""",""ExecuteDataFlow"",""11/11/2024, 5:38:00 PM"",""13s"",""AutoResolveIntegrationRuntime (Germany West Central)"",""{}"",""6fc1e0c7-3fb8-41a2-9e6f-1c019d622d44"","""""
+"dataflow_agency,""Succeeded"","""",""ExecuteDataFlow"",""11/11/2024, 5:34:46 PM"",""3m 14s"",""AutoResolveIntegrationRuntime (Germany West Central)"",""{}"",""2ca6b3dc-f362-442c-b510-caf3b0965410"","""""
+"dataflow_emp,""Succeeded"","""",""ExecuteDataFlow"",""11/11/2024, 5:34:46 PM"",""3m 1s"",""AutoResolveIntegrationRuntime (Germany West Central)"",""{}"",""a36383bd-fbbc-4ca2-aa8f-427c8b323717"","""""
+"dataflow_title,""Succeeded"","""",""ExecuteDataFlow"",""11/11/2024, 5:34:46 PM"",""3m 5s"",""AutoResolveIntegrationRuntime (Germany West Central)"",""{}"",""dd33dbd0-948d-4ba8-8863-f926e79160a8"","""""
